@@ -28,7 +28,7 @@ Fifteen municipal pages that differ only by name look to Google like one page re
 
 - 28 pages, among them a Belgrade hub, 15 municipal pages, a wedding protocol page, a price page and two buying guides
 - Shared includes and three helpers, with FAQ markup built from the same array as the questions on the page
-- One CSS file of about 26 KB and one script of about 7 KB, with icons in an inline SVG sprite instead of an icon font
+- One CSS file of about 30 KB and one script of about 7 KB, with icons in an inline SVG sprite instead of an icon font
 - A gold line drawn by scrolling in CSS alone, which stays static where scroll-driven animation is not supported
 - Entrance animations only for elements below the fold, so the price page headline no longer waits for a deferred script
 - A `tel:` click counter that writes one line to a rotating log, without cookies or a third-party tool

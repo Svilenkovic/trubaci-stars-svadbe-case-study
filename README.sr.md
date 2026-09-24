@@ -28,7 +28,7 @@ Petnaest opštinskih strana koje se razlikuju samo po imenu Google vidi kao jedn
 
 - 28 strana, među njima glavna strana za Beograd, 15 opštinskih strana, svadbeni protokol, cenovnik i dva vodiča za izbor i cenu
 - Zajednički delovi i tri pomoćne funkcije, a FAQ oznake se prave iz istog niza kao i pitanja na strani
-- Jedan CSS fajl od oko 26 KB i jedna skripta od oko 7 KB, sa ikonama u ugrađenom SVG sprajtu umesto fonta sa ikonama
+- Jedan CSS fajl od oko 30 KB i jedna skripta od oko 7 KB, sa ikonama u ugrađenom SVG sprajtu umesto fonta sa ikonama
 - Zlatna linija koju skrol iscrtava samo pomoću CSS-a, a stoji mirno gde pregledač to ne podržava
 - Ulazne animacije samo za elemente ispod prvog ekrana, pa naslov cenovnika više ne čeka odloženu skriptu
 - Brojač klikova na broj telefona koji upisuje po jedan red u rotirajući log, bez kolačića i bez tuđeg alata
